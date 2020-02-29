@@ -9,8 +9,10 @@
       margin-top: 1rem;
       position: relative;
       background-color: $color-secondary;
+      height: 50px;
       width: 100%;
       text-align: center;
+      box-shadow: 4px 4px 2px #00000052;
   
       img {
         position: absolute;
